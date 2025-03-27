@@ -5,7 +5,7 @@ This Job Portal System is designed to provide users with a seamless experience i
 
 ### Live Project
 
-https://job-recommendation-system-ten.vercel.app/
+https://job-recommendation-system-chi.vercel.app/
 
 ### Technologies & Frameworks
 
